@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code temp files
+tempCodeRunnerFile*
+
+# Qodo
+.qodo/
+
+# Django collected static files
+staticfiles/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
